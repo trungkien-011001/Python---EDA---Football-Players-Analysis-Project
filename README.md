@@ -1,5 +1,5 @@
 # PYTHON DATA ANALYSIS OF FOOTBALL PROJECT
-This project is using Python for data cleaning and Data Analysis by importing libraries, standardizing data format, remove duplicates,  making analysis by graphs of a Football dataset.
+This project is using Python for Data cleaning and Data analysis of Football dataset.
 ## 1. About Project:
 - The dataset contains basic information about football players in several top-tier global football leagues
 - Data source: https://www.kaggle.com/datasets/khanghunhnguyntrng/football-players-transfer-fee-prediction-dataset/data
