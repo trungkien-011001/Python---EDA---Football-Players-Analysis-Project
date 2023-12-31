@@ -6,7 +6,8 @@ This project is using Python for data cleaning and Data Analysis by importing li
 - Platform: Jupyter Notebook
 - Libraries: Pandas, Matplotlib, seaborn
 ## 2. Project Aim:
-- To apply data cleaning such as standardizing data types, removing duplicates and data analysis to recognize outliers, trends of the dataset
+- To apply data cleaning such as standardizing data types, removing duplicates
+- To apply data analysis to recognize outliers, trends and data distribution of the dataset
 ## 3. Step-to-step Process:
 - Collecting data from the data source
 - Reading data into a DataFrame
