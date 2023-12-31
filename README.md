@@ -15,4 +15,4 @@ This project is using Python for EDA process of Football dataset.
 - Analyzing fators, relationships
 - Visualizing during the EDA Process.
 ## 4. Products:
-- Python Code (Jupyter Notebook) (uploaded file on Github)
+- Python Code file (Jupyter Notebook) (uploaded file on Github)
