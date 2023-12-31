@@ -13,6 +13,6 @@ This project is using Python for EDA process of Football dataset.
 - Reading data into a DataFrame
 - Cleaning and standardizing data
 - Analyzing fators, trends, relationships
-- Visualizing during the Analysis Process.
+- Visualizing during the EDA Process.
 ## 4. Products:
 - Python Code (Jupyter Notebook) (uploaded file on Github)
