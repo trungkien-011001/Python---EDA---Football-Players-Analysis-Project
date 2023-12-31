@@ -16,4 +16,3 @@ This project is using Python for data cleaning and Data Analysis by importing li
 - Visualizing during the Analysis Process.
 ## 4. Products:
 - Python Code (Jupyter Notebook) (uploaded file on Github)
-- Cleaned Data in .xlsx file (uploaded file on Github)
