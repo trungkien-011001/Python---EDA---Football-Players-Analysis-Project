@@ -3,7 +3,7 @@ This project is using Python for EDA process of Football dataset.
 ## 1. About Project:
 - The dataset contains basic information about football players in several top-tier global football leagues
 - Data source: https://www.kaggle.com/datasets/khanghunhnguyntrng/football-players-transfer-fee-prediction-dataset/data
-- Platform: Jupyter Notebook
+- Coding Platform: Jupyter Notebook
 - Libraries: Pandas, Matplotlib, seaborn
 ## 2. Project Aim:
 - To apply data cleaning such as standardizing data types, removing duplicates
